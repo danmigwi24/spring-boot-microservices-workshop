@@ -15,3 +15,7 @@
 
 **Spring Boot Microservices Level 3: Configuration and management**
 
+**_REFERENCE_**
+1. https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas
+2. https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbXZY_elyGv7IkKrfkSrX5e
+3. https://www.youtube.com/playlist?list=PLqq-6Pq4lTTaoaVoQVfRJPqvNTCjcTvJB
